@@ -1,4 +1,539 @@
 price,living_area,type_of_house,year_of_construction,number_of_rooms,balcony,garden,interior,latitude,longitude
+"€1,975 per month",65 m²,Flat,1778,2,Present,Not present,Furnished,52.374073825912,4.904991489682
+"€1,900 per month",51 m²,Flat,1744,2,Not present,Not present,Furnished,52.370242535271,4.8929439004074
+"€3,000 per month",165 m²,Flat,,3,Present,Not present,Furnished,52.359006541564,4.8757027062413
+"€5,000 per month",160 m²,Flat,,5,Present,Not present,Furnished,52.383508966415,4.8845413586219
+"€6,900 per month",253 m²,Flat,1669,4,Not present,Present,Upholstered,52.363248983638,4.8967430679992
+"€1,995 per month",91 m²,Flat,2008,3,Present,Not present,Upholstered,52.369543833459,4.8364498387955
+"€1,975 per month",57 m²,Flat,1912,2,,,,52.360418521384,4.8635750947031
+"€1,950 per month",70 m²,Flat,1930,2,Present,Not present,Upholstered,52.362088926223,4.944755580784
+"€1,975 per month",30 m²,Studio,,1,Present,Not present,Furnished,52.384687093765,4.9218849921796
+"€1,850 per month",56 m²,Flat,1891,2,Not present,,Upholstered,52.365434477842,4.8781832767349
+"€4,050 per month",141 m²,House,,5,Not present,Present,Furnished,52.350778422665,4.7867652899904
+"€1,675 per month",27 m²,Flat,1930,1,Not present,Not present,Furnished,52.353114206603,4.8501428364812
+"€4,000 per month",208 m²,House,2019,5,Not present,Present,Furnished,52.404435190267,4.9325972218865
+"€2,400 per month",65 m²,Flat,1939,2,Present,,Furnished,52.373955050356,4.8782323444166
+"€1,995 per month",51 m²,Flat,2003,3,,Not present,Furnished,52.352818312439,4.9001686518262
+"€2,300 per month",66 m²,Flat,1994,3,Present,,Furnished,52.366556579914,4.8716367196796
+"€3,215 per month",70 m²,Flat,1672,3,Not present,,Furnished,52.364001832471,4.9009288426017
+"€3,000 per month",95 m²,Flat,,3,Not present,Present (35 m²),Upholstered,52.362844875993,4.8884751416557
+"€1,700 per month",44 m²,Flat,1905,2,Not present,,Furnished,52.379081203376,4.8938440826649
+"€2,650 per month",64 m²,Flat,1682,3,Not present,Not present,Furnished,52.374740173465,4.9025565903099
+"€2,650 per month",64 m²,Flat,1682,3,Present,Not present,Furnished,52.374740173465,4.9025565903099
+"€2,450 per month",50 m²,Flat,1927,3,Present,Not present,Upholstered,52.354527311339,4.9251619161696
+"€3,250 per month",103 m²,Flat,2010,3,Present,Not present,Upholstered,52.356333643695,4.8446285783649
+"€12,500 per month",243 m²,Flat,1906,9,Present,"Present (36 m², located on the south)",Upholstered,52.353348683525,4.8684582393254
+"€1,300 per month",35 m²,Flat,2019,1,Present,Not present,,52.372941928662,4.928094579603
+"€3,000 per month",95 m²,Flat,2021,3,Present,,Upholstered,52.369457831378,4.9537964982562
+"€1,850 per month",84 m²,Flat,1993,2,Present,Not present,Furnished,52.323550645105,4.9498919501028
+"€2,050 per month",80 m²,Flat,1910,3,Not present,Not present,,52.355051064033,4.8790631992342
+"€2,000 per month",46 m²,Flat,1895,2,Present,Not present,Upholstered or furnished,52.356924777231,4.8791284691455
+"€2,900 per month",105 m²,Flat,1967,5,Not present,Not present,Furnished,52.328513500364,4.8680148437797
+"€1,600 per month",35 m²,Flat,1970,2,Present,Not present,Furnished,52.385607554733,4.8547732937272
+"€2,650 per month",60 m²,Flat,1900,2,Not present,Not present,Furnished,52.368170567789,4.8875196101736
+"€2,300 per month",85 m²,Flat,2004,3,Present,,Furnished,52.379296539111,4.8464184732418
+"€2,400 per month",120 m²,Flat,1968,4,Not present,,Upholstered,52.32746008043,4.8758460040611
+"€2,250 per month",95 m²,Flat,1952,3,Not present,,Upholstered or furnished,52.39026035365,4.8913251681942
+"€2,250 per month",87 m²,Flat,1784,3,Present,Not present,Furnished,52.363188194552,4.8867682512233
+"€2,950 per month",82 m²,Flat,1897,3,Not present,"Present (90 m², located on the west)",Upholstered,52.369330140917,4.874937605844
+"€2,270 per month",93 m²,Flat,,3,,Not present,Furnished,52.363674613336,4.9087702673872
+"€2,450 per month",92 m²,Flat,2006,3,Present,Not present,Furnished,52.376185420397,4.9245838589461
+"€2,800 per month",86 m²,Flat,,4,Present,Not present,Upholstered,52.372742788315,4.9697150986275
+"€2,250 per month",90 m²,Flat,1969,3,Present,,Furnished,52.325733677057,4.8593046470632
+"€1,875 per month",31 m²,Studio,1640,1,Not present,Not present,Upholstered,52.372449427069,4.8984553145163
+"€1,950 per month",49 m²,Flat,1925,2,Not present,Present (40 m²),Upholstered,52.351330132327,4.9076997927857
+"€3,250 per month",76 m²,Flat,1896,3,Present,Not present,Upholstered,52.358482197911,4.9197799944096
+"€1,281 per month",32 m²,Studio,2019,1,Not present,Not present,Upholstered,52.339949682681,4.9197772639561
+"€2,450 per month",61 m²,Flat,1912,3,Present,Not present,Furnished,52.359419675314,4.8572450851203
+"€2,250 per month",65 m²,Flat,1910,2,Not present,Not present,Furnished,52.361097720372,4.8627009217431
+"€1,650 per month",45 m²,Flat,1983,2,Present,Not present,Furnished,52.359728013122,4.9407274106751
+"€2,250 per month",79 m²,Flat,1961,3,Present,,Furnished,52.363689384003,4.8357150319568
+"€2,200 per month",60 m²,Flat,1906,2,Not present,Not present,,52.369134462659,4.9010026751147
+"€3,500 per month",112 m²,Flat,2010,3,Not present,Not present,Furnished,52.336204540652,4.873617808171
+"€1,300 per month",20 m²,Flat,1960,2,Not present,Not present,Furnished,52.421248642105,4.8926776021097
+Price on request,60 m²,Flat,1930,2,Not present,Not present,Upholstered,52.375296947741,4.8623861582847
+"€3,000 per month",75 m²,Flat,,3,Not present,Present (75 m²),Upholstered,52.355841088578,4.9039124960416
+"€2,750 per month",85 m²,Flat,2002,3,Not present,Not present,Furnished,52.348541794001,4.9071722091465
+"€2,850 per month",60 m²,Flat,,3,Present,Not present,Furnished,52.357504094859,4.890120543487
+"€2,100 per month",69 m²,Flat,,3,Not present,Not present,Furnished,52.353260547809,4.8032299127292
+"€2,495 per month",55 m²,Flat,1988,2,Not present,,Furnished,52.363925701397,4.8976389571519
+"€2,300 per month",93 m²,Flat,2008,3,Not present,"Present (30 m², located on the south-west)",Furnished,52.352270294033,5.0055600725015
+"€3,500 per month",142 m²,Flat,1912,5,Present,Not present,Upholstered,52.372014842051,4.8620285172406
+"€2,400 per month",100 m²,Flat,,3,Present,Not present,Furnished,52.344532280534,4.915873879501
+"€2,250 per month",75 m²,Flat,1978,3,Not present,Not present,Furnished,52.361747300663,4.8989989470003
+"€2,300 per month",86 m²,Flat,2008,3,Not present,,Upholstered,52.367882611785,4.8406550925063
+"€2,990 per month",92 m²,Flat,2015,4,Present,Not present,Furnished,52.339506569241,4.9153857507398
+"€2,250 per month",55 m²,Flat,1932,3,Present,,Furnished,52.353727883678,4.8467447427171
+"€2,950 per month",125 m²,Flat,1929,4,Present,,Upholstered,52.345987506803,4.8893396205736
+"€1,750 per month",80 m²,Flat,1888,2,Present,Not present,Furnished,52.36298714149,4.9189077174998
+"€2,000 per month",45 m²,Flat,1660,2,Present,Not present,Furnished,52.372795001197,4.899435366557
+"€2,000 per month",50 m²,Flat,2023,2,Present,,Upholstered,52.386801410215,4.8352401800701
+"€2,650 per month",74 m²,Flat,1922,3,Not present,Present (48 m²),Furnished,52.350837578308,4.892837104429
+"€3,250 per month",95 m²,Flat,1909,5,Present,Not present,Furnished,52.374539508525,4.8888576262525
+"€2,150 per month",52 m²,Flat,1905,2,Not present,"Present (40 m², located on the north-west)",Furnished,52.38136057399,4.8844629002083
+"€3,250 per month",100 m²,Flat,1899,4,Present,,Furnished,52.362096186258,4.8649206256534
+"€2,350 per month",59 m²,House,1972,2,Not present,,Furnished,52.365451847375,4.9081931851098
+"€2,500 per month",90 m²,Flat,1899,3,Present,,,52.35718503091,4.9199084200045
+"€2,650 per month",61 m²,Flat,1738,3,Not present,,Upholstered or furnished,52.377058492012,4.894158450939
+"€1,128 per month",30 m²,Flat,2020,2,Not present,,Upholstered,52.371819914518,4.858298808864
+"€1,795 per month",30 m²,Flat,2021,1,Not present,Present,Upholstered,52.371719851777,4.8582218382255
+"€2,150 per month",59 m²,Flat,1902,3,Present,Not present,Furnished,52.359763100541,4.9264286126375
+"€2,750 per month",86 m²,Flat,1989,3,Present,Not present,Upholstered or furnished,52.368577137665,4.9120504524451
+"€3,200 per month",90 m²,Flat,1912,3,Present,Not present,,52.352803170572,4.8609348572839
+"€2,000 per month",53 m²,Flat,1927,3,Present,Not present,,52.37187286666,4.8484326171734
+"€2,250 per month",80 m²,Flat,1879,3,,Not present,Furnished,52.365813487915,4.9109495252899
+"€2,450 per month",75 m²,Flat,1906,3,Present,,Upholstered or furnished,52.35147004208,4.8872086061242
+"€2,100 per month",55 m²,Flat,1930,3,Not present,Not present,Furnished,52.37257676426,4.8570291539581
+"€3,650 per month",117 m²,Flat,2021,4,Present,Not present,Furnished,52.386108756744,4.9033306448704
+"€2,150 per month",92 m²,Flat,2008,3,Present,Not present,Upholstered,52.364202547687,4.9881772689663
+"€2,250 per month",68 m²,Flat,1905,2,Present,,Upholstered,52.380023208611,4.8744028565094
+"€2,250 per month",60 m²,Flat,1904,2,Not present,Not present,Furnished,52.351791644653,4.8931640608101
+"€1,900 per month",52 m²,Flat,1930,2,Present,,Upholstered,52.343919267996,4.9020712978555
+"€2,250 per month",83 m²,Flat,1930,3,,,Upholstered,52.343793642915,4.8955863747768
+"€2,100 per month",80 m²,Flat,1906,3,Not present,"Present (30 m², located on the west)",Upholstered,52.370897625822,4.8675188318134
+"€2,750 per month",103 m²,Flat,1934,3,Present,Not present,Upholstered,52.343411262724,4.898745680987
+"€2,950 per month",94 m²,Flat,1885,3,Not present,Not present,Upholstered,52.371383070491,4.8948841656431
+"€2,500 per month",86 m²,Flat,2013,3,Present,,Furnished,52.366654545946,4.8602903455134
+"€2,650 per month",122 m²,Flat,1973,4,,,Upholstered,52.383366873021,4.8765380124063
+"€6,500 per month",138 m²,Flat,2011,4,Present,Not present,Upholstered or furnished,52.335850146985,4.872726898288
+"€2,100 per month",57 m²,Flat,1985,2,Not present,"Present (24 m², located on the north-west)",Furnished,52.353683981325,4.916422531166
+"€5,488 per month",125 m²,Flat,1978,3,Present,Not present,,52.378405583315,4.8891813424896
+"€2,200 per month",86 m²,Flat,2006,3,Not present,Not present,Furnished,52.387887483507,4.922317104492
+"€2,750 per month",135 m²,House,1993,6,Not present,Present,,52.421356327989,4.8953284435219
+"€2,950 per month",92 m²,Flat,1932,4,Not present,Present (41 m²),Furnished,52.344186119704,4.9013933315318
+"€2,650 per month",80 m²,Flat,1961,4,Present,Not present,Upholstered,52.363728354038,4.8382984978023
+"€1,674 per month",42 m²,Flat,,3,Not present,Not present,Upholstered,52.364514183709,4.8609280835835
+"€1,950 per month",53 m²,Flat,,2,Present,Not present,Furnished,52.3285853991,4.8680140032908
+"€2,500 per month",86 m²,Flat,1927,3,Not present,Not present,Upholstered,52.3681070912,4.8544102733745
+"€2,500 per month",55 m²,Flat,1900,3,Present,Not present,Furnished,52.353419210138,4.8848087993345
+"€2,500 per month",80 m²,Flat,,3,Present,Not present,Furnished,52.368843172087,4.8562074673991
+"€2,500 per month",84 m²,Flat,1930,3,Not present,,Upholstered,52.358632130129,4.8600142981373
+"€2,100 per month",55 m²,Flat,,2,Not present,Not present,Upholstered,52.383540707176,4.8508025133139
+"€2,350 per month",69 m²,Flat,1904,3,Present,Not present,Furnished,52.361525573573,4.8680103052355
+"€2,150 per month",95 m²,Flat,,4,Not present,Not present,Furnished,52.31749221804,4.9595432346362
+"€2,650 per month",73 m²,Flat,1740,2,Not present,Not present,Furnished,52.371189305434,4.8887684541389
+"€2,300 per month",59 m²,Flat,1896,2,Not present,Not present,Furnished,52.355011513361,4.9024050855085
+"€3,650 per month",78 m²,Flat,1918,3,Present,Not present,Upholstered or furnished,52.35342642781,4.86979303706
+"€2,195 per month",80 m²,Flat,2016,3,Present,Not present,Upholstered,52.355073201528,4.8400737716765
+"€2,700 per month",116 m²,Flat,1902,3,Present,Not present,Upholstered,52.351479587302,4.8873405954719
+"€2,100 per month",77 m²,Flat,1959,4,Present,Not present,Furnished,52.325951527931,4.8845620876849
+"€2,750 per month",95 m²,Flat,2016,4,Present,Not present,Furnished,52.394932395274,4.8776572561671
+"€3,250 per month",93 m²,Flat,1900,4,Not present,Present,Upholstered,52.357386620681,4.8033664463664
+"€2,600 per month",75 m²,Flat,1900,4,Present,Present,Upholstered,52.358210991405,4.788470327787
+"€1,950 per month",53 m²,Flat,,3,Present,Not present,Upholstered,52.364883017454,4.9373134008037
+"€1,600 per month",37 m²,Flat,2017,1,,,Furnished,52.40718555736,4.9188706231779
+"€2,350 per month",75 m²,Flat,2018,3,,,Upholstered,52.349856603111,4.8448107162624
+"€1,950 per month",80 m²,Flat,,3,Present,Not present,Furnished,52.363728354038,4.8382984978023
+"€3,250 per month",156 m²,House,2008,6,,,Furnished,52.409611183631,4.9022780932361
+"€2,063 per month",70 m²,Flat,2022,2,,Not present,,52.402141194325,4.8907498828903
+"€1,890 per month",73 m²,Flat,2022,2,,Not present,,52.40214912815,4.8910475281148
+"€1,834 per month",63 m²,Flat,2022,2,,Not present,,52.402162610204,4.890700152869
+"€4,500 per month",92 m²,Flat,1957,4,Not present,Present (35 m²),,52.346295760443,4.8710795638304
+"€1,950 per month",85 m²,Flat,,3,Not present,Not present,Upholstered,52.351053329386,4.784266412925
+"€2,300 per month",56 m²,Flat,1913,3,Present,,Furnished,52.350218815607,4.8541295643003
+"€1,800 per month",50 m²,Flat,1950,3,Present,Not present,Furnished,52.383695391533,4.8552070814732
+"€2,650 per month",80 m²,Flat,1932,3,Not present,Present,Furnished,52.373494318295,4.8572090880342
+"€1,750 per month",43 m²,Flat,1900,2,Not present,Present,Furnished,52.373796416467,4.8706567923931
+"€2,950 per month",134 m²,House,1998,4,Present,,Upholstered,52.329986921412,4.8577430448509
+"€2,850 per month",114 m²,Flat,1887,3,Not present,Present (26 m²),Furnished,52.368404061393,4.9182338514437
+"€2,250 per month",67 m²,Flat,1900,3,,Not present,Upholstered,52.35218264286,4.8878170402406
+"€1,850 per month",100 m²,Flat,1980,3,Not present,"Present (10 m², located on the south)",Furnished,52.400655391847,4.9376997114233
+"€2,700 per month",69 m²,Flat,1896,3,Present,Not present,Upholstered,52.355499497042,4.9027111056742
+"€2,700 per month",66 m²,Flat,1896,3,Present,Not present,Upholstered,52.355466499068,4.9026398630466
+"€2,000 per month",49 m²,Flat,1926,3,Present,Not present,Upholstered,52.371883982561,4.854864170599
+"€1,850 per month",63 m²,Flat,1982,3,Not present,"Present (15 m², located on the south)",Furnished,52.361524367293,4.9452016311145
+"€2,300 per month",78 m²,Flat,1934,3,Not present,Present (2 m²),,52.380125872891,4.8857840331914
+"€2,550 per month",101 m²,Flat,1934,4,Present,Not present,Furnished,52.342619893495,4.896465167347
+"€1,109 per month",36 m²,Studio,,1,Not present,Not present,Furnished,52.348620288277,4.9088004479109
+"€1,975 per month",60 m²,Flat,1880,2,Present,Not present,Upholstered,52.3631245343,4.9241327930148
+"€1,995 per month",51 m²,Flat,1934,2,Not present,Not present,Upholstered,52.372491486289,4.8661638769421
+"€1,650 per month",60 m²,House,1965,2,Not present,Present,Furnished,52.335469093276,4.8486895137795
+"€1,850 per month",66 m²,Flat,1958,2,Present,Not present,Furnished,52.35733195765,4.8255037662385
+"€1,550 per month",35 m²,Flat,1930,2,Not present,Not present,Furnished,52.353588621864,4.8924784193993
+"€2,500 per month",75 m²,Flat,1900,2,Not present,Not present,Furnished,52.374072214699,4.9049953105855
+"€2,450 per month",83 m²,Flat,2002,3,Not present,Not present,Furnished,52.344871567156,4.9504303791406
+"€2,150 per month",65 m²,Flat,1890,2,Present,Not present,Upholstered,52.353147020954,4.8948956526108
+"€1,900 per month",57 m²,Flat,2022,2,Present,Not present,Furnished,52.35800313621,4.8051490643672
+"€3,100 per month",125 m²,Flat,2012,5,Not present,,Furnished,52.380330998533,4.8877447759284
+"€1,950 per month",53 m²,Flat,1950,2,Present,Not present,Upholstered,52.364555249969,4.8764609156239
+"€2,250 per month",52 m²,Flat,1905,2,Not present,Not present,Furnished,52.374045446116,4.8804487281802
+"€2,500 per month",58 m²,Flat,2023,2,Not present,Not present,Upholstered or furnished,52.359495719356,4.8783182567288
+"€2,750 per month",86 m²,Flat,1730,2,Not present,Present (15 m²),Furnished,52.371972492357,4.8833064649433
+"€2,050 per month",70 m²,Flat,2024,3,Present,Not present,Upholstered,52.40286988957,4.8877998171381
+"€2,150 per month",98 m²,Flat,1987,3,Present,,Upholstered,52.327618975447,4.8814479431514
+"€2,050 per month",63 m²,Flat,1923,3,Not present,Present,Upholstered,52.369158260677,4.8623706858023
+"€2,500 per month",62 m²,Flat,1897,3,Present,,Furnished,52.363757454412,4.8748698155094
+"€2,100 per month",65 m²,Flat,1883,3,Not present,,Furnished,52.389505176546,4.8870000588744
+"€2,400 per month",70 m²,Flat,1964,3,Not present,Not present,Upholstered,52.348355966561,4.9056772280577
+"€1,700 per month",59 m²,Flat,1928,2,Not present,"Present (24 m², located on the south-west)",Upholstered,52.348136576996,4.9390681721267
+"€2,200 per month",73 m²,Flat,1953,3,Present,Not present,Furnished,52.348882022474,4.9413061543959
+"€2,950 per month",125 m²,Flat,1910,3,Present,Not present,Furnished,52.351544357163,4.8877801895741
+"€2,400 per month",78 m²,Flat,1930,3,Present,Not present,Upholstered,52.379805964625,4.8557090328093
+"€2,975 per month",109 m²,Flat,2020,3,Present,Not present,Upholstered or furnished,52.385222067587,4.9057916991704
+"€1,950 per month",60 m²,Flat,1935,3,Present,Not present,,52.361251014051,4.8507783855563
+"€1,750 per month",80 m²,Flat,1997,3,Present,Not present,Furnished,52.31943612394,4.9652592309401
+"€2,250 per month",61 m²,Flat,1878,3,Not present,Not present,,52.356295434577,4.8973110206829
+"€4,500 per month",244 m²,Flat,1901,9,Not present,Not present,Upholstered,52.354355544078,4.8809671409739
+"€2,850 per month",92 m²,Flat,,3,Present,Not present,Furnished,52.358265954183,4.7976297669081
+"€2,350 per month",68 m²,Flat,,3,Present,Not present,Furnished,52.38348162653,4.8476893583512
+"€3,500 per month",160 m²,House,1956,5,Not present,Present (located on the west),Furnished,52.386768861496,4.949532990574
+Price on request,90 m²,Flat,1969,3,Present,Not present,Furnished,52.32649760063,4.8592955675845
+"€2,000 per month",61 m²,Flat,1986,3,Not present,,Upholstered or furnished,52.319364457151,4.9456211280565
+"€2,100 per month",65 m²,Flat,,2,Not present,Not present,Furnished,52.358917431853,4.8949637537742
+"€2,650 per month",85 m²,Flat,2014,3,Present,,Upholstered or furnished,52.357326365586,4.9281419187448
+"€3,200 per month",132 m²,Flat,2016,4,Present,Not present,Furnished,52.375323380079,4.9641386539031
+"€3,250 per month",112 m²,Flat,1904,3,Not present,Present,Upholstered or furnished,52.379012238672,4.8897638127013
+"€4,500 per month",160 m²,Flat,2019,4,Present,,Furnished,52.373849489121,4.9675500462215
+"€2,300 per month",63 m²,Flat,1786,2,Not present,Not present,,52.379479503286,4.8923709822324
+"€2,500 per month",76 m²,Flat,1922,3,Present,,Upholstered,52.362306341258,4.8535990689415
+"€3,000 per month",280 m²,House,1935,5,Not present,"Present (70 m², located on the south)",Upholstered,52.322055170398,4.8587469852071
+"€3,000 per month",157 m²,House,2008,5,Not present,Not present,Furnished,52.348175014308,5.0105370317684
+"€2,350 per month",86 m²,Flat,,3,Present,Not present,Furnished,52.373832740967,4.8122399301106
+"€2,850 per month",86 m²,Flat,1889,3,Not present,,Furnished,52.36955056245,4.8739512710173
+"€2,250 per month",90 m²,Flat,1994,3,Present,Not present,Furnished,52.377173506491,4.9480416053979
+"€2,050 per month",61 m²,Flat,1785,2,Not present,Present,Upholstered,52.380234934538,4.889515782067
+"€1,600 per month",25 m²,House,,2,Not present,Not present,Furnished,52.370179006902,4.9401916786474
+"€2,550 per month",84 m²,Flat,,4,Present,Not present,Furnished,52.307772076316,4.9786545706773
+"€3,000 per month",90 m²,Flat,1915,4,Not present,Present (90 m²),Furnished,52.354900937766,4.9241745650783
+"€2,250 per month",71 m²,Flat,1901,3,Present,Not present,Furnished,52.369635887964,4.8708373914411
+"€2,450 per month",58 m²,Flat,1962,2,Not present,Not present,,52.374693016316,4.8784588379778
+"€3,250 per month",117 m²,Flat,1939,5,Present,Not present,Furnished,52.345331428424,4.8704744084134
+"€5,250 per month",153 m²,Flat,1884,4,Not present,,Furnished,52.363011671775,4.8819302306331
+"€2,500 per month",87 m²,Flat,1929,4,Present,Present,,52.366137427979,4.854110917534
+"€2,250 per month",65 m²,Flat,,2,Not present,Not present,Furnished,52.374348240191,4.8882576903136
+"€2,300 per month",58 m²,Flat,1880,3,Not present,Present,Upholstered,52.38034492272,4.8865746537447
+"€4,750 per month",138 m²,House,1900,5,Present,Not present,Upholstered,52.356083083755,4.8730648307202
+"€2,750 per month",86 m²,Flat,2024,3,Present,,Upholstered,52.402772394303,4.8876768508117
+"€2,000 per month",53 m²,Flat,1907,2,Present,Not present,Furnished,52.354253862014,4.9276560540928
+"€2,450 per month",65 m²,Flat,1925,3,Present,Not present,Upholstered,52.354293470208,4.8853860370965
+"€2,350 per month",120 m²,Flat,1939,3,Present,Not present,Upholstered,52.347007788755,4.8756795380914
+"€14,000 per month",383 m²,House,1901,10,Not present,"Present (41 m², located on the south)",,52.354399268841,4.8723504172379
+"€3,000 per month",120 m²,House,1987,5,Not present,Present,Furnished,52.391128050672,4.9258969929911
+"€2,450 per month",70 m²,Flat,1911,2,Not present,Not present,,52.358815409905,4.8588353369574
+"€2,400 per month",68 m²,Flat,1916,3,Not present,Not present,,52.358350657505,4.9260762868844
+"€1,850 per month",40 m²,Flat,,2,Present,Not present,Furnished,52.370052996689,4.9267358413961
+"€2,950 per month",120 m²,Flat,1873,2,Not present,Present,,52.371954676411,4.8802193409327
+"€3,500 per month",115 m²,Flat,1905,4,Present,,Upholstered,52.355028826714,4.8724458639048
+"€2,500 per month",102 m²,Flat,,2,Not present,Not present,Furnished,52.361873889662,4.8921697788477
+"€1,750 per month",73 m²,Flat,1980,3,,,Furnished,52.305560899452,4.9786015843514
+"€7,500 per month",250 m²,Flat,,4,Not present,Not present,Upholstered or furnished,52.385955548744,4.9028239657756
+"€1,875 per month",55 m²,Flat,1892,3,Present,Not present,Upholstered,52.354475895224,4.8881435177933
+"€2,550 per month",73 m²,Flat,1741,3,Not present,Not present,,52.367118469539,4.8888149697091
+"€2,000 per month",41 m²,Flat,1893,2,Not present,Not present,Upholstered,52.36692448281,4.8715003010971
+"€6,500 per month",222 m²,Flat,1906-1930,5,Not present,"Present (70 m², located on the south)",Furnished,52.351786810719,4.9370205027596
+"€3,150 per month",85 m²,Flat,,4,Not present,Not present,Upholstered or furnished,52.359140641037,4.8551491781501
+"€2,550 per month",100 m²,Flat,2016,4,Present,Not present,Furnished,52.397490636723,4.9060746093841
+"€2,500 per month",58 m²,Flat,1914,3,Present,Not present,Furnished,52.358235102631,4.8556444657761
+"€2,650 per month",67 m²,Flat,1910,4,Not present,Not present,Upholstered,52.355306574077,4.9244785848981
+"€1,700 per month",60 m²,Flat,1928,3,Not present,Not present,,52.351130814158,4.9162588071871
+"€2,300 per month",75 m²,Flat,,3,Present,Not present,Furnished,52.349228226428,4.8299946703321
+"€2,350 per month",87 m²,Flat,2008,2,Present,Not present,Upholstered,52.376983672906,4.8716148453639
+"€3,250 per month",112 m²,Flat,1930,5,Present,,Furnished,52.352435941671,4.8857584395306
+"€2,000 per month",30 m²,Flat,1779,2,Not present,Not present,Furnished,52.363299559576,4.8923741796376
+"€2,000 per month",58 m²,Flat,2024,2,Not present,Present (24 m²),,52.402809401335,4.8877867153983
+"€2,300 per month",53 m²,Flat,1884,2,Present,Not present,Upholstered,52.354431221325,4.8924888278075
+"€4,500 per month",140 m²,Flat,1910,6,Present,Not present,Upholstered,52.355690309487,4.8716161761601
+"€2,450 per month",83 m²,Flat,2006,3,Present,Not present,Furnished,52.351115855756,4.796667978459
+"€3,500 per month",115 m²,Flat,1899,4,Present,Not present,Furnished,52.353364039968,4.8845158627225
+"€1,750 per month",40 m²,Flat,,2,Not present,Not present,Furnished,52.356729582511,4.8897475607619
+"€2,350 per month",75 m²,Flat,1833,2,Present,Not present,Upholstered,52.386187917679,4.884687254948
+"€3,200 per month",96 m²,Flat,1884,3,Not present,Present,,52.356989822668,4.9004604932405
+"€2,850 per month",118 m²,Flat,1905,3,Present,Not present,,52.369508518336,4.8979884813556
+"€1,900 per month",52 m²,Flat,1899,2,Not present,Present (35 m²),Shell,52.353127812622,4.8839167412009
+"€2,950 per month",140 m²,Flat,1927,3,Not present,Present (200 m²),Furnished,52.369970888741,4.8611863851512
+"€1,950 per month",57 m²,Flat,1989,2,Not present,,Upholstered,52.351877823015,4.9178297727357
+"€5,900 per month",146 m²,Flat,1858,4,Not present,Present (27 m²),Furnished,52.367565750147,4.9122182138449
+"€5,250 per month",180 m²,Flat,1930,6,Present,Not present,Upholstered,52.348432916459,4.8768519061286
+"€4,250 per month",160 m²,Flat,1928,6,Present,Not present,Upholstered,52.345853210001,4.8873305738364
+"€2,700 per month",55 m²,Flat,1895,3,Not present,Not present,Upholstered,52.353335509811,4.8871995088276
+"€2,850 per month",90 m²,Flat,1932,3,Not present,Present,Furnished,52.344206562499,4.9019947832892
+"€1,950 per month",85 m²,Flat,2010,3,Present,,Furnished,52.363749052861,4.9886564666688
+"€2,250 per month",48 m²,Flat,1880,3,Not present,"Present (15 m², located on the south-east)",Upholstered,52.356384654744,4.8953881818418
+"€3,000 per month",106 m²,Flat,1893,4,Not present,Not present,Furnished,52.35642182336,4.8956813510787
+"€2,000 per month",79 m²,Flat,1907,3,Present,Not present,,52.359088109482,4.91254841936
+"€2,550 per month",100 m²,Flat,2009,3,Present,Not present,Upholstered,52.369539856159,4.8819098069643
+"€2,250 per month",56 m²,Flat,1901,3,Present,Not present,,52.364646389188,4.8767535024048
+"€1,750 per month",55 m²,Flat,1940,2,Not present,Not present,Upholstered,52.374953617698,4.8479840071805
+"€1,900 per month",65 m²,Flat,1940,3,Present,Not present,Upholstered,52.363535943054,4.8552139219201
+"€2,450 per month",105 m²,Flat,1974,4,Present,Not present,Furnished,52.36307227009,4.8441497776759
+"€4,450 per month",166 m²,Flat,1931,5,Present,Not present,Furnished,52.362146379997,4.8722752052328
+"€1,950 per month",57 m²,Flat,,2,Present,Not present,Furnished,52.352380248433,4.8628479802028
+"€2,500 per month",70 m²,Flat,1980,3,Present,Present,Furnished,52.368442529936,4.8817167432146
+"€2,150 per month",60 m²,Flat,1927,2,Not present,,Upholstered or furnished,52.359648340068,4.8935023132247
+"€2,650 per month",100 m²,Flat,,3,Present,Not present,Furnished,52.334464800887,4.8828811721679
+"€2,500 per month",55 m²,Flat,1900,3,Present,,Upholstered,52.356145979236,4.9007046119484
+"€2,750 per month",145 m²,House,1999,5,Not present,Not present,Furnished,52.348334647743,4.7869451142518
+"€1,999 per month",45 m²,Flat,1998,2,Not present,Not present,,52.365234653052,4.8637852888332
+"€3,100 per month",67 m²,Flat,1910,4,Present,Not present,Upholstered,52.352980047305,4.8562651699175
+"€4,250 per month",165 m²,Flat,1995,4,Present,Not present,Furnished,52.375029864017,4.9325405977936
+"€2,200 per month",65 m²,Flat,2024,2,Present,,Upholstered,52.393181995756,4.9011804056738
+"€2,500 per month",70 m²,Flat,1894,2,Present,,Furnished,52.352606494038,4.8611720347072
+"€1,950 per month",52 m²,Flat,1998,2,Not present,,Furnished,52.332000602128,4.8577207094859
+"€2,895 per month",82 m²,Flat,1911,3,Present,Not present,Upholstered,52.374479311969,4.8584014939418
+"€2,500 per month",101 m²,Flat,2011,3,Present,Not present,,52.376586605058,4.8383938957697
+"€3,850 per month",120 m²,Flat,1930,4,Present,Not present,,52.346348617722,4.8770519781618
+"€3,100 per month",120 m²,Flat,1930,3,Present,Not present,Furnished,52.345467480664,4.8769740515704
+"€1,950 per month",45 m²,Flat,1899,2,Present,Not present,Furnished,52.383861910183,4.8746228491181
+"€1,600 per month",50 m²,Flat,1937,2,Present,Not present,Furnished,52.384373718495,4.8561536858129
+"€2,400 per month",92 m²,Flat,2007,4,Present,Not present,Furnished,52.355700567058,4.9991012939283
+"€1,727 per month",97 m²,Flat,2009,3,Not present,Not present,Upholstered,52.36566318338,4.8031253865057
+"€2,500 per month",85 m²,Flat,,3,Present,Not present,Upholstered,52.343283701237,4.8936486054616
+"€2,599 per month",128 m²,Flat,2015,4,Not present,Not present,Upholstered,52.369852067193,4.9548758301288
+"€2,500 per month",90 m²,Flat,,3,Not present,Present,Furnished,52.387507882632,4.9217775795195
+"€2,750 per month",74 m²,Flat,2021,2,Not present,Not present,Upholstered,52.356949504793,4.8965398636917
+"€3,850 per month",75 m²,Flat,2019,2,Present,Not present,Furnished,52.360318728627,4.8945860153027
+"€2,800 per month",88 m²,Flat,1905,3,Present,Present (19 m²),Furnished,52.35301271511,4.9015462434644
+"€1,900 per month",59 m²,Flat,1905,2,Not present,,Furnished,52.353285096893,4.9101837818277
+"€2,000 per month",50 m²,Flat,2015,2,Not present,Not present,Furnished,52.39513162584,4.8780231742708
+"€2,350 per month",70 m²,Flat,2015,3,Present,Not present,Furnished,52.361708279723,4.9048276544058
+"€2,600 per month",85 m²,Flat,1783,3,Present,Not present,Furnished,52.378268708025,4.8919346654324
+€528 per month,30 m²,Room,,1,,,Upholstered,52.415889907921,4.8948599843313
+"€2,100 per month",68 m²,Flat,1350,2,Not present,Not present,Furnished,52.372682975569,4.898423372265
+"€2,600 per month",80 m²,House,2010,3,Not present,Present,Furnished,52.361847666339,4.8590861221506
+"€2,300 per month",75 m²,Flat,1881,3,Present,,Furnished,52.384194895411,4.8809937105163
+"€2,550 per month",83 m²,Flat,1928,3,Present,,Upholstered,52.346862855625,4.890181005284
+"€2,150 per month",78 m²,Flat,1971,4,Present,Not present,Upholstered,52.318571088207,4.9801490662629
+"€1,950 per month",50 m²,Flat,1900,2,Not present,Not present,Upholstered,52.351641586724,4.8895257159839
+"€3,235 per month",92 m²,Flat,1960,3,Not present,"Present (12 m², located on the north)",Upholstered,52.366385838274,4.9032770977534
+"€2,500 per month",100 m²,Flat,2003,4,Not present,Not present,Furnished,52.37931437942,4.8463888823132
+"€2,500 per month",70 m²,Flat,2016,3,Present,,Furnished,52.338129066417,4.8963632001647
+"€2,900 per month",76 m²,Flat,,3,Present,Not present,Upholstered,52.331824472587,4.8701910236118
+"€1,985 per month",50 m²,Flat,1889,2,,,Upholstered,52.35199917703,4.8912096302308
+"€3,750 per month",95 m²,Flat,2012,3,Present,Not present,Furnished,52.37620331494,4.9062683504682
+"€1,900 per month",67 m²,Flat,2022,2,Not present,Not present,Furnished,52.358158231937,4.8050453728157
+"€2,250 per month",70 m²,Flat,1913,3,Present,Not present,Upholstered,52.351441311467,4.8558579312796
+"€2,500 per month",100 m²,House,1930,3,Not present,,Furnished,52.386464681737,4.8914353858721
+"€4,000 per month",133 m²,House,,5,Present,Not present,Furnished,52.360575644768,4.7957933704352
+"€3,000 per month",95 m²,Flat,1800,3,Not present,,Upholstered,52.365582794295,4.8841066995419
+"€2,050 per month",67 m²,Flat,,2,Present,Not present,Furnished,52.351365763715,4.8017430636255
+"€3,400 per month",115 m²,Flat,,3,Present,Not present,Furnished,52.353860896457,4.8851120420549
+"€2,500 per month",65 m²,Flat,1910,3,Present,Not present,Furnished,52.342061710535,4.9027812879991
+"€2,250 per month",56 m²,Flat,1883,2,Present,Not present,Furnished,52.366183074625,4.8725513635858
+"€3,000 per month",125 m²,Flat,1997,2,Not present,,Furnished,52.367226512936,4.8917147957959
+"€3,750 per month",135 m²,Flat,1906-1930,4,Present,,Upholstered or furnished,52.35725452255,4.903790531122
+"€4,500 per month",135 m²,Flat,1889,5,Present,"Present (60 m², located on the south)",Furnished,52.364029485947,4.8754245748411
+"€2,250 per month",60 m²,Flat,1759,2,Not present,Not present,Furnished,52.372324558,4.8836695737791
+"€2,000 per month",49 m²,Flat,1902,2,Present,Not present,Furnished,52.361541606548,4.863488436891
+"€1,675 per month",35 m²,Flat,1995,1,Not present,Not present,,52.395461605016,4.9086981265219
+"€1,995 per month",50 m²,Flat,1937,3,Present,Not present,Furnished,52.355987065343,4.9124788346128
+"€1,700 per month",53 m²,Flat,1991,2,Not present,Not present,Furnished,52.343847865468,4.8268924124383
+"€2,400 per month",77 m²,Flat,1920,3,Present,Not present,Upholstered,52.371399536635,4.8610960231125
+"€2,650 per month",105 m²,Flat,1904,3,Not present,"Present (16 m², located on the east)",Furnished,52.379010851302,4.8897566171708
+"€2,500 per month",85 m²,Flat,1880,1,Not present,"Present (6 m², located on the south)",Furnished,52.362776119368,4.8849671150546
+"€2,500 per month",105 m²,Flat,2020,4,Present,Not present,Shell,52.393394185208,4.9012175547801
+"€2,500 per month",71 m²,Flat,1930,3,Present,Not present,Upholstered,52.349448112538,4.8483672735238
+"€1,850 per month",77 m²,Flat,,2,Present,Not present,Upholstered,52.334688885239,4.8764523410471
+"€1,840 per month",51 m²,Flat,1934,3,Present,Not present,Shell,52.381244581243,4.8558386641065
+"€2,000 per month",58 m²,Flat,1985,2,Not present,Not present,,52.372689746572,4.9022559360546
+"€2,950 per month",68 m²,Flat,1887,3,Not present,Not present,Furnished,52.366022687655,4.8791161920238
+"€1,500 per month",52 m²,Flat,1965,2,Not present,Not present,Upholstered,52.37219027891,4.8293472757691
+"€3,750 per month",128 m²,Flat,1930,4,Not present,Not present,Upholstered,52.348159273678,4.8738464017703
+"€2,700 per month",106 m²,House,1998,4,Not present,Not present,Upholstered or furnished,52.372509480688,4.9506281709596
+"€1,995 per month",64 m²,Flat,2016,2,Present,Not present,Upholstered,52.354959989801,4.840254261414
+"€2,275 per month",65 m²,Flat,2016,3,Present,Present (5 m²),Upholstered,52.338557348804,4.8935578455394
+"€2,750 per month",142 m²,Flat,2022,4,Present,Not present,Upholstered,52.386720210127,4.8351253376198
+"€2,450 per month",80 m²,Flat,2004,1,Not present,Present (4 m²),,52.371741768443,4.8946892908336
+"€2,400 per month",106 m²,Flat,,3,Not present,Not present,Furnished,52.32536659345,4.8822803737543
+"€2,700 per month",115 m²,Flat,,4,Not present,Not present,Furnished,52.327530415017,4.885981832254
+"€2,400 per month",78 m²,Flat,1886,1,Not present,Not present,Furnished,52.356518620797,4.9083336490896
+"€2,350 per month",70 m²,Flat,,2,Present,Not present,Upholstered,52.380541103043,4.8798751417008
+"€3,350 per month",140 m²,Flat,,5,Not present,"Present (40 m², located on the south)",Upholstered,52.352861160185,4.7959689950758
+"€2,950 per month",102 m²,Flat,1898,4,,,Furnished,52.35502683777,4.928811678857
+"€2,150 per month",55 m²,Flat,,2,Present,Not present,Furnished,52.363608540294,4.8434972282027
+"€2,000 per month",50 m²,Flat,,2,Present,Not present,Furnished,52.396050987358,4.9039028206819
+"€2,100 per month",65 m²,Flat,1990,2,Not present,,Furnished,52.38749772823,4.8862441708943
+"€6,750 per month",215 m²,House,1896,7,Present,Present,,52.355468784711,4.8682279544895
+"€2,450 per month",58 m²,Flat,1882,3,Present,,Furnished,52.375576357849,4.8748801491475
+"€2,900 per month",72 m²,Flat,1900,4,Present,Present,Upholstered,52.356928934285,4.7926712375752
+"€2,250 per month",48 m²,Flat,1800,2,Not present,,Upholstered,52.363032526113,4.8880219362113
+"€2,750 per month",56 m²,Flat,1896,3,Not present,,Furnished,52.358903601242,4.9214550925674
+"€2,400 per month",80 m²,Flat,1991,3,Not present,,Upholstered,52.364819750343,4.9232488731765
+"€2,950 per month",96 m²,Flat,1906,3,Not present,,Furnished,52.362082494233,4.8517960012196
+"€3,750 per month",81 m²,Flat,1875,4,Present,Not present,Furnished,52.359987443316,4.8801688767807
+"€2,350 per month",102 m²,House,1961,4,Not present,Present,Upholstered,52.35268960807,4.8077582240119
+"€2,250 per month",70 m²,Flat,,2,Present,Not present,Furnished,52.403020661718,4.8878946315815
+"€2,380 per month",90 m²,Flat,2010,3,,,Furnished,52.347647096056,5.00725821245
+€995 per month,83 m²,Flat,1997,3,Present,Not present,,52.395994996519,4.9508376506943
+"€2,000 per month",87 m²,Flat,1966,3,Present,Not present,,52.327553546464,4.8787641645814
+"€1,900 per month",78 m²,Flat,1961,4,Present,Not present,,52.325585105545,4.8704401025649
+"€2,300 per month",70 m²,Flat,1900,3,Present,,Furnished,52.360921493317,4.8675769564627
+"€1,810 per month",63 m²,Flat,2022,2,,Not present,,52.40217410135,4.8906906051362
+"€2,850 per month",85 m²,Flat,1915,2,Present,Not present,Upholstered,52.350967512199,4.8591777945108
+"€2,250 per month",86 m²,Flat,1994,3,Not present,Not present,,52.377437625087,4.9417533948775
+"€2,150 per month",65 m²,Flat,1984,3,Not present,Present (40 m²),Upholstered,52.373933515197,4.8670720847369
+"€2,650 per month",82 m²,Flat,2001,3,Present,Not present,Furnished,52.333279814418,4.8564860546287
+"€1,901 per month",128 m²,Flat,2013,3,Not present,Not present,Upholstered,52.393150704031,4.9559315746534
+"€2,400 per month",91 m²,Flat,1995,3,Present,,Furnished,52.378532600713,4.825191197904
+"€3,950 per month",116 m²,Flat,1903,5,Present,Not present,Upholstered,52.355621201355,4.8769757442446
+"€1,300 per month",40 m²,Flat,1965,2,Not present,Not present,Upholstered,52.372373416028,4.8293154274145
+"€5,000 per month",225 m²,House,2006,6,Not present,"Present (200 m², located on the south)",Furnished,52.355680945305,4.990470374087
+"€2,250 per month",75 m²,Flat,,3,Not present,Not present,Furnished,52.358991482564,4.8976493553931
+"€3,750 per month",110 m²,Flat,1957,4,Present,Not present,Furnished,52.3422230387,4.8687349871075
+"€2,350 per month",78 m²,Flat,1851,2,Not present,Not present,Upholstered or furnished,52.371171829967,4.9069126530038
+"€1,600 per month",59 m²,Flat,1906,2,Not present,Not present,Upholstered,52.366410623263,4.9030586916317
+"€2,650 per month",69 m²,Flat,1882,2,Not present,Not present,Furnished,52.361389368355,4.8864655636343
+"€1,725 per month",38 m²,Flat,1934,2,,Not present,Furnished,52.382456895558,4.8844210953949
+"€3,490 per month",86 m²,House,,3,Not present,"Present (38 m², located on the south-west)",Furnished,52.370240958893,4.8633123140318
+"€2,050 per month",107 m²,Flat,1998,3,Not present,,Upholstered or furnished,52.369582382508,4.8312367258332
+"€5,500 per month",132 m²,Flat,1932,4,Not present,"Present (70 m², located on the east)",Upholstered,52.347835857671,4.8738794945966
+"€2,150 per month",55 m²,Flat,1887,2,Not present,,Furnished,52.357468544993,4.9076481464741
+"€2,270 per month",80 m²,Flat,2012,3,,,Furnished,52.348047714379,5.0088691648283
+"€2,550 per month",65 m²,Flat,1904,3,Present,Not present,Upholstered,52.351958555875,4.8943951198608
+"€2,395 per month",70 m²,Flat,1900,3,Present,Not present,,52.354962197256,4.928980929578
+"€3,250 per month",115 m²,Flat,1993,3,Present,Not present,Furnished,52.350635778689,4.9138276568247
+"€9,500 per month",370 m²,House,,9,Present,Present,Upholstered,52.357451701734,4.873636150777
+"€1,849 per month",65 m²,Flat,2017,2,Not present,Not present,Upholstered or furnished,52.375145053919,4.9659583670942
+"€1,799 per month",48 m²,Flat,2017,2,Not present,Not present,Upholstered or furnished,52.375145053919,4.9659583670942
+"€2,900 per month",112 m²,Flat,1931,4,Present,Not present,Upholstered,52.345019442655,4.8772873825679
+"€4,500 per month",157 m²,Flat,1860,4,Present,Not present,Furnished,52.362060426745,4.8943122873561
+"€2,050 per month",50 m²,Flat,1885,2,Not present,Not present,Furnished,52.360407807706,4.865219425947
+"€6,500 per month",193 m²,House,1685,8,Not present,Present (24 m²),Upholstered,52.366607019907,4.8833527258256
+"€2,950 per month",75 m²,Flat,1755,3,Present,Not present,Shell,52.368738554185,4.8858099678255
+"€2,250 per month",49 m²,Flat,1876,2,,"Present (9 m², located on the north-west)",Furnished,52.355775820005,4.891637144531
+"€2,500 per month",135 m²,Flat,,6,Present,Not present,Upholstered,52.318810014691,4.9635931888214
+"€2,650 per month",68 m²,Flat,,3,Not present,Present,Upholstered,52.357077280263,4.8998723631669
+"€2,900 per month",88 m²,Flat,1702,3,Not present,,Furnished,52.372665729287,4.9029757356146
+"€2,750 per month",85 m²,Flat,1880,3,Not present,"Present (9 m², located on the south-west)",Upholstered,52.359045944934,4.8611215502267
+"€2,750 per month",73 m²,Flat,1899,4,,Not present,,52.358287810788,4.9127086204287
+"€2,800 per month",71 m²,Flat,1988,3,Present,Not present,Furnished,52.35884663855,4.9061652687409
+"€2,200 per month",80 m²,Flat,1976,3,Present,,Furnished,52.399707650414,4.9319348324923
+"€8,500 per month",205 m²,Flat,1905,7,Present,"Present (51 m², located on the south)",Upholstered,52.353548304758,4.8668413112399
+"€2,050 per month",65 m²,Flat,,2,Not present,Not present,Furnished,52.371245371498,4.8985273168634
+"€2,750 per month",104 m²,Flat,1636,2,Present,,Furnished,52.371889816579,4.9022499972457
+"€3,000 per month",84 m²,Flat,1841,4,Not present,Present (16 m²),Furnished,52.36823079361,4.9124418359419
+"€2,975 per month",102 m²,Flat,1980,4,Not present,Not present,Upholstered,52.362801197864,4.9106001485933
+"€2,000 per month",30 m²,Flat,1896,1,Not present,,,52.369469562515,4.9286771330667
+"€1,900 per month",34 m²,Flat,1900,1,Not present,,Furnished,52.383653804509,4.8743021175397
+"€5,000 per month",158 m²,Flat,1909,5,Not present,Not present,Upholstered,52.353599904487,4.8663122927332
+"€3,250 per month",100 m²,Flat,1917,3,Present,Not present,Furnished,52.353522174691,4.8707933504441
+"€2,095 per month",53 m²,Flat,1928,3,Present,Not present,Upholstered,52.347444148742,4.8484356285969
+"€2,000 per month",92 m²,Flat,1998,3,Present,Not present,,52.349585349248,4.783684601502
+"€3,100 per month",80 m²,Flat,,3,Not present,Present (located on the south),Furnished,52.35008012181,4.8470239931359
+"€5,000 per month",168 m²,Flat,1923,4,Not present,Present (41 m²),Upholstered,52.351350931817,4.863814172596
+"€2,750 per month",70 m²,Flat,1905,3,Present,Not present,Upholstered,52.370506847655,4.8727067711849
+"€3,500 per month",70 m²,Flat,1905,2,Not present,,Furnished,52.364024113368,4.900915796075
+"€1,995 per month",44 m²,Flat,1965,2,Present,Not present,Furnished,52.373117814238,4.8281086336514
+"€2,300 per month",60 m²,House,1919,2,Not present,Not present,,52.364102511637,4.8993636417312
+"€3,250 per month",105 m²,Flat,,4,Present,Not present,Furnished,52.347671389412,4.9075191732427
+"€3,950 per month",175 m²,House,2020,5,Present,Not present,Upholstered,52.394825578202,4.8805531494287
+"€2,190 per month",110 m²,Flat,1900,2,Present,Present (84 m²),Furnished,52.36129628803,4.8731365509112
+"€1,895 per month",55 m²,Flat,1928,2,Not present,,Upholstered,52.380039373527,4.8823482793162
+"€2,850 per month",110 m²,Flat,1930,3,Present,,Upholstered,52.345592276539,4.8643810382028
+"€5,900 per month",210 m²,Flat,2019,6,Not present,Present (located on the south-east),Upholstered,52.392908556714,4.8806258028003
+"€3,300 per month",115 m²,Flat,1911,3,Not present,Not present,Furnished,52.351013213624,4.8565969217057
+"€3,200 per month",153 m²,Flat,2016,4,Not present,"Present (50 m², located on the south)",,52.395234413537,4.8781246166776
+"€2,000 per month",65 m²,Flat,1904,2,Present,Not present,Furnished,52.353892355441,4.8694646836057
+"€2,500 per month",86 m²,House,2019,4,Not present,"Present (27 m², located on the west)",Upholstered,52.407511160839,4.8997860787976
+"€2,750 per month",135 m²,Flat,,3,Not present,Not present,Furnished,52.377084404316,4.8870520361386
+"€2,445 per month",70 m²,House,1786,4,Not present,Not present,Furnished,52.366251336178,4.884252387022
+"€2,950 per month",94 m²,Flat,,3,Present,Not present,Upholstered,52.368819017506,4.8835918994578
+"€2,450 per month",80 m²,Flat,1825,2,Not present,Not present,Furnished,52.383115520622,4.8829007729883
+"€4,350 per month",208 m²,House,1940,7,,Present (located on the east),Furnished,52.394171062855,4.9946656350229
+"€2,500 per month",85 m²,Flat,1883,3,Not present,,Furnished,52.357793845057,4.8751501721734
+"€2,300 per month",90 m²,Flat,1967,4,Present,Not present,Upholstered,52.327584635284,4.8839885549782
+"€3,000 per month",90 m²,Flat,1665,3,Not present,,Upholstered or furnished,52.375558080267,4.8983039723557
+"€2,200 per month",45 m²,Flat,1909,2,Present,Not present,Upholstered,52.374539508525,4.8888576262525
+"€3,500 per month",150 m²,Flat,1912,4,,Present (located on the west),Furnished,52.377844867683,4.8573186450136
+"€2,300 per month",70 m²,Flat,1934,3,,"Present (25 m², located on the south-west)",Upholstered,52.343777093742,4.9024690729546
+"€2,100 per month",62 m²,Flat,1888,2,,Not present,Upholstered,52.363265226204,4.9187726507773
+"€2,700 per month",72 m²,Flat,1883,3,Present,Not present,,52.357792916883,4.8751537646894
+"€3,250 per month",120 m²,Flat,1900,4,Not present,,Furnished,52.374586881035,4.8809565201112
+"€2,750 per month",100 m²,Flat,1931,3,Present,,Upholstered,52.344562677116,4.8673281970185
+"€6,500 per month",280 m²,Flat,1897,8,Not present,Not present,Upholstered,52.360258549576,4.88261739589
+"€3,000 per month",70 m²,Flat,,2,Not present,Not present,Furnished,52.374080611759,4.9017120730249
+"€2,995 per month",93 m²,Flat,2023,3,Not present,Not present,,52.369070203511,4.9552358020311
+"€5,000 per month",156 m²,Flat,1875,3,Present,Not present,Furnished,52.371937284479,4.8935383460123
+"€1,950 per month",70 m²,Flat,1905,2,Not present,,Upholstered,52.365542370387,4.8866242401298
+"€3,950 per month",120 m²,Flat,1899,7,Present,Not present,Furnished,52.361546841299,4.8585996726445
+"€1,995 per month",55 m²,Flat,2016,2,Not present,Not present,Upholstered,52.338837892474,4.8939543229259
+"€4,000 per month",165 m²,Flat,1920,5,Not present,"Present (50 m², located on the north-east)",Upholstered,52.356317460893,4.8900604400773
+"€3,000 per month",90 m²,Flat,1900,4,Present,,Upholstered,52.355971716876,4.7917739630278
+"€2,950 per month",85 m²,Flat,1905,4,,,Upholstered,52.368770245609,4.9086712639847
+"€3,750 per month",86 m²,Flat,2015,3,Present,,Upholstered,52.369850577312,4.9059726193135
+"€2,150 per month",50 m²,Flat,1935,2,,,Furnished,52.372443265174,4.8841087573969
+"€6,000 per month",156 m²,Flat,1928,6,Not present,"Present (92 m², located on the south)",Upholstered,52.3481260128,4.887070158113
+"€2,550 per month",85 m²,Flat,1931,4,Not present,Present,Upholstered,52.344599141988,4.8674451713812
+"€3,250 per month",145 m²,Flat,,3,Present,Not present,Furnished,52.322382663695,4.8616473214845
+"€2,300 per month",43 m²,Flat,1925,2,Not present,,Upholstered or furnished,52.347478446875,4.8600440395289
+"€2,450 per month",75 m²,Flat,1996,3,,,Upholstered,52.37877135436,4.8949783869065
+"€3,250 per month",80 m²,Flat,1893,3,Present,,Furnished,52.361712034599,4.8778295991568
+"€2,495 per month",75 m²,Flat,1956,4,Present,Not present,Furnished,52.376507373982,4.8189166614576
+"€2,300 per month",98 m²,Flat,2006,3,Present,Not present,,52.356208946575,4.9979078576058
+"€4,000 per month",157 m²,Flat,1894,4,Not present,Not present,,52.352374429555,4.8595161990422
+"€1,550 per month",30 m²,Flat,2017,1,Present,,,52.373777871216,4.9685619882995
+"€2,950 per month",93 m²,Flat,1828,3,Not present,Present (9 m²),Furnished,52.368845519517,4.898495020534
+"€4,995 per month",152 m²,Flat,1813,4,Not present,Present (80 m²),Furnished,52.361332147037,4.9095700036335
+"€4,250 per month",132 m²,House,1880,4,Not present,Not present,Furnished,52.367035297193,4.8763295856578
+"€2,100 per month",68 m²,Flat,,2,Not present,Not present,Furnished,52.380317477799,4.8822276174021
+"€3,250 per month",130 m²,Flat,2012,3,Present,Not present,Furnished,52.376221613128,4.9067220252739
+"€1,825 per month",120 m²,House,2007,5,Not present,,,52.351097503623,5.0097971895946
+"€2,600 per month",76 m²,Flat,1929,3,Not present,Present,Upholstered,52.346099932768,4.8990683120771
+"€2,000 per month",76 m²,Flat,1938,2,Not present,Not present,Upholstered,52.346546758456,4.9094538529066
+"€1,800 per month",30 m²,Flat,1725,1,Not present,,Furnished,52.372994777324,4.8999324440593
+"€3,000 per month",96 m²,Flat,2021,3,Present,,Upholstered or furnished,52.386279063026,4.9045483793598
+"€2,200 per month",80 m²,Flat,1903,3,Present,,Upholstered,52.352112897247,4.8969326364948
+"€2,750 per month",86 m²,Flat,1932,3,Not present,Present (82 m²),Upholstered,52.34181673115,4.8956816368225
+"€3,500 per month",110 m²,Flat,,4,Not present,Not present,Upholstered,52.369212871818,4.9159493941098
+"€4,200 per month",140 m²,Flat,2009,4,Not present,Not present,Furnished,52.357181942715,4.8453815330189
+"€2,495 per month",69 m²,Flat,1891,3,Present,Not present,Upholstered,52.367289594647,4.8727881324514
+"€2,975 per month",70 m²,Flat,1905,2,Present,,Furnished,52.36089467049,4.8982039669048
+"€3,500 per month",83 m²,Flat,1906,3,Not present,Not present,Furnished,52.378685924488,4.8832155004898
+"€1,950 per month",44 m²,Flat,1879,2,Not present,Not present,Furnished,52.355693212832,4.8912270600071
+"€2,950 per month",105 m²,Flat,1875,2,Not present,,Upholstered,52.360202886994,4.8801076936539
+"€3,750 per month",115 m²,Flat,1912,3,Present,Not present,Upholstered,52.351268605002,4.8574304797949
+"€4,250 per month",143 m²,Flat,1889,4,Present,Not present,,52.357688197739,4.8763638002019
+"€2,400 per month",75 m²,Flat,1963,3,Present,,Upholstered,52.33427946707,4.8732292638354
+"€3,250 per month",140 m²,Flat,1930,4,Not present,"Present (15 m², located on the south-west)",,52.348731871631,4.8794902443838
+"€2,500 per month",89 m²,Flat,,3,Present,Not present,Furnished,52.347039510167,4.9046348403637
+"€5,750 per month",160 m²,Flat,1890,4,Not present,,Upholstered,52.357294892087,4.8747829562264
+"€3,500 per month",90 m²,Flat,1903,3,Present,,Upholstered,52.354094468179,4.8711391321577
+"€2,350 per month",65 m²,Flat,1930,2,Present,Not present,Upholstered,52.360349071962,4.880663877163
+"€2,035 per month",67 m²,Flat,2022,3,,Not present,,52.394105668025,4.9008872020182
+"€2,200 per month",48 m²,Flat,1884,2,Present,,Furnished,52.355132619824,4.8880857556357
+"€3,250 per month",87 m²,Flat,1913,3,Not present,"Present (20 m², located on the south)",Furnished,52.359639751034,4.8602372091783
+"€1,375 per month",93 m²,Flat,2009,3,Not present,,,52.406104342271,4.9152191237888
+"€2,500 per month",140 m²,House,1980,5,Not present,Not present,Upholstered,52.390141341461,4.9909847065703
+"€3,000 per month",110 m²,Flat,1900,3,Not present,Present,Furnished,52.382087024184,4.8862171721112
+"€2,850 per month",167 m²,Flat,2023,4,Present,Not present,Upholstered,52.386885180657,4.8348576143819
+"€2,650 per month",86 m²,Flat,2012,3,Not present,,Furnished,52.37595330428,4.9077355448478
+"€2,155 per month",50 m²,Flat,1924,3,Not present,Present (30 m²),Upholstered,52.368083789874,4.8512390337343
+"€2,750 per month",70 m²,Flat,1736,3,Not present,Not present,Furnished,52.369725986212,4.8940802824545
+"€2,450 per month",86 m²,Flat,2014,3,Present,,Upholstered or furnished,52.376320145393,4.9075955754753
+"€1,900 per month",60 m²,Flat,2015,3,Not present,,Furnished,52.374720635929,4.9674281568059
+"€3,750 per month",127 m²,Flat,2024,4,Present,Not present,Furnished,52.387523065862,4.9046477836606
+"€1,820 per month",71 m²,Flat,2024,3,Not present,Not present,Upholstered,52.397657443437,4.91014236942
+"€5,000 per month",115 m²,Flat,,2,Present,Not present,Upholstered or furnished,52.375335305865,4.9649467286084
+"€2,650 per month",67 m²,Flat,1885,3,Not present,,Furnished,52.36311847326,4.8818818580756
+"€2,500 per month",64 m²,Flat,1925,2,Present,,Furnished,52.368756583396,4.8815956994149
+"€2,200 per month",80 m²,Flat,1969,4,Not present,"Present (80 m², located on the south)",Furnished,52.325784195379,4.8585412604793
+"€2,650 per month",180 m²,House,2015,1,,Not present,Furnished,52.406673822196,4.9349204495682
+"€3,300 per month",100 m²,Flat,,4,Not present,Not present,Furnished,52.348307664701,4.8961087598321
+"€2,210 per month",155 m²,Flat,2018,3,Not present,Not present,Upholstered,52.36564477436,4.8030375356308
+"€2,490 per month",45 m²,Flat,,2,Not present,Present (located on the north),Furnished,52.361574194897,4.8940974771577
+"€2,650 per month",75 m²,Flat,1890,4,Not present,Not present,Furnished,52.365053443877,4.9255514857785
+"€2,450 per month",75 m²,Flat,1912,3,Present,Not present,Upholstered,52.35415141092,4.930200478437
+"€5,200 per month",151 m²,Flat,1911,4,Present,Not present,Upholstered,52.352713323734,4.8569141870198
+"€2,100 per month",44 m²,Flat,1905,3,Not present,,Furnished,52.360395484744,4.8916295926075
+"€3,000 per month",100 m²,Flat,1986,4,Present,Not present,Furnished,52.331397173626,4.8822264811207
+"€2,650 per month",65 m²,Flat,1910,3,Present,Not present,Upholstered,52.35947547819,4.8556589670502
+"€2,300 per month",94 m²,Flat,2002,4,Present,Not present,Furnished,52.379546641634,4.8025900492518
+"€3,750 per month",130 m²,Flat,2021,4,Not present,Not present,Upholstered,52.369507211639,4.9537749305605
+"€2,300 per month",70 m²,Flat,1897,2,Present,Not present,Upholstered or furnished,52.354411329188,4.8678363116024
+"€2,150 per month",80 m²,Flat,1994,3,,,Furnished,52.345277637915,4.8120521607506
+"€1,575 per month",68 m²,Flat,2023,3,,Not present,,52.313991953679,4.951056568974
+€925 per month,36 m²,Flat,2023,1,,Not present,,52.313991953679,4.951056568974
+"€2,450 per month",85 m²,Flat,1905,4,Not present,"Present (24 m², located on the north-west)",Furnished,52.384086734405,4.8809215041475
+"€2,700 per month",110 m²,Flat,,4,,Not present,Furnished,52.37749788976,4.9434416787208
+"€2,800 per month",110 m²,House,2000,4,,Not present,Upholstered or furnished,52.373805798689,4.9439338440429
+"€2,900 per month",100 m²,Flat,1900,3,Not present,Not present,Upholstered,52.371744277326,4.8888449778596
+"€2,500 per month",115 m²,Flat,,3,Present,Not present,Furnished,52.357495908686,4.8903114676236
+"€2,300 per month",45 m²,Flat,1615,3,Not present,Not present,Upholstered,52.377257864973,4.8949056001449
+"€2,400 per month",69 m²,Flat,1905,3,Present,Not present,,52.352804062955,4.885989992302
+"€2,450 per month",88 m²,Flat,2018,3,Present,Present,,52.37442976674,4.9635035940222
+"€9,750 per month",388 m²,House,1870,8,Present,"Present (42 m², located on the north-west)",Upholstered,52.362292668545,4.8770007963156
+"€2,295 per month",87 m²,Flat,1965,3,Present,,Furnished,52.327528680184,4.875082398997
+"€2,650 per month",70 m²,Flat,1926,3,Present,Not present,Upholstered,52.381958667438,4.8527457207591
+"€1,750 per month",87 m²,Flat,1880,3,Not present,,,52.381112048934,4.8830851167857
 "€3,300 per month",110 m²,Flat,1908,4,Present,Not present,Furnished,52.352600140522,4.9017562470537
 "€2,100 per month",70 m²,Flat,1922,3,Present,Not present,Upholstered,52.370877623175,4.8609553745231
 "€2,450 per month",68 m²,Flat,1875,3,Not present,Not present,Upholstered,52.37733923693,4.8947125895506
@@ -9,8 +544,6 @@ price,living_area,type_of_house,year_of_construction,number_of_rooms,balcony,gar
 "€1,995 per month",95 m²,Flat,1998,4,Present,,Upholstered,52.35944252981,4.8065543482937
 "€2,350 per month",98 m²,Flat,1986,3,Present,Not present,Furnished,52.331779493754,4.8812538529164
 "€2,250 per month",55 m²,Flat,1984,2,Present,Not present,Furnished,52.355661849795,4.8880421083036
-"€2,650 per month",70 m²,Flat,1926,3,Present,Not present,Upholstered,52.381958667438,4.8527457207591
-"€1,750 per month",87 m²,Flat,1880,3,Not present,,,52.381112048934,4.8830851167857
 "€3,000 per month",90 m²,Flat,1772,3,Not present,,Furnished,52.369895304865,4.8830657570119
 "€2,300 per month",72 m²,Flat,1930,3,Not present,Not present,,52.343972049785,4.893104334114
 "€2,500 per month",100 m²,Flat,2004,3,Not present,Not present,Upholstered,52.37170352808,4.9230447197427
@@ -46,7 +579,6 @@ price,living_area,type_of_house,year_of_construction,number_of_rooms,balcony,gar
 "€3,750 per month",75 m²,Flat,2019,2,Present,Not present,Furnished,52.360306787188,4.8945824777882
 "€3,000 per month",116 m²,House,,2,Not present,Present,Upholstered,52.420776079435,4.902832082996
 "€2,500 per month",85 m²,Flat,1763,3,Not present,"Present (30 m², located on the north)",Furnished,52.360881549617,4.8982891264577
-"€1,901 per month",128 m²,Flat,2013,3,Not present,Not present,Upholstered,52.393150704031,4.9559315746534
 "€5,500 per month",175 m²,Flat,2019,6,Present,"Present (12 m², located on the north-east)",Upholstered,52.339877057293,4.9193940213733
 "€8,000 per month",182 m²,Flat,1926,7,Present,"Present (92 m², located on the east)",,52.349655647741,4.8726792967657
 "€2,975 per month",123 m²,Flat,2018,4,Not present,Not present,Upholstered,52.374701429986,4.9450325145367
@@ -69,7 +601,6 @@ price,living_area,type_of_house,year_of_construction,number_of_rooms,balcony,gar
 "€3,000 per month",73 m²,Flat,1911,3,Present,Not present,Furnished,52.358486049908,4.857491111916
 "€4,500 per month",110 m²,Flat,1900,4,Not present,,Upholstered,52.362312808575,4.878025447082
 "€3,250 per month",110 m²,Flat,1715,3,Present,,Furnished,52.361398844873,4.8929983728478
-"€2,250 per month",79 m²,Flat,1961,3,Present,,Furnished,52.363689384003,4.8357150319568
 "€3,250 per month",70 m²,Flat,1895,3,Present,Not present,Furnished,52.358550162153,4.9201053889303
 "€3,500 per month",129 m²,Flat,1910,4,Present,Not present,Upholstered,52.355106897072,4.8801218879152
 "€2,400 per month",107 m²,Flat,2019,3,Present,Not present,Upholstered,52.366507944988,4.8360045055349
@@ -135,7 +666,6 @@ price,living_area,type_of_house,year_of_construction,number_of_rooms,balcony,gar
 "€2,300 per month",95 m²,Flat,,4,Present,Not present,Furnished,52.395952488751,4.9323700879325
 "€1,950 per month",60 m²,Flat,,3,Present,Not present,Furnished,52.38039263491,4.8522652357732
 "€2,550 per month",80 m²,Flat,,3,Present,Not present,Furnished,52.372525763282,4.8760901372734
-"€2,550 per month",84 m²,Flat,,4,Present,Not present,Furnished,52.307772076316,4.9786545706773
 "€2,900 per month",115 m²,Flat,1930,3,Not present,,Furnished,52.358194496154,4.9071411938656
 "€3,000 per month",100 m²,Flat,,3,Not present,Not present,Furnished,52.361064136324,4.8433081975665
 "€1,850 per month",41 m²,Flat,1892,2,Present,Not present,Upholstered,52.35600902693,4.8936749107776
@@ -324,11 +854,9 @@ price,living_area,type_of_house,year_of_construction,number_of_rooms,balcony,gar
 "€2,150 per month",55 m²,Flat,1740,2,Not present,Not present,Furnished,52.371320790472,4.8843417482282
 "€3,500 per month",88 m²,Flat,1896,4,Not present,Present (25 m²),Furnished,52.363136632625,4.8747154900161
 "€2,750 per month",65 m²,Flat,1985,2,Not present,"Present (80 m², located on the east)",Furnished,52.368755391764,4.8813167330731
-"€2,250 per month",60 m²,Flat,1759,2,Not present,Not present,Furnished,52.372324558,4.8836695737791
 "€1,300 per month",50 m²,House,2006,1,Not present,,,52.320200656635,4.9808283404955
 "€2,250 per month",50 m²,Flat,,2,Not present,Not present,Upholstered,52.352874178727,5.0033091782452
 "€3,200 per month",104 m²,Flat,,4,Present,Not present,Upholstered,52.350970021803,4.7986550902029
-"€4,000 per month",133 m²,House,,5,Present,Not present,Furnished,52.360575644768,4.7957933704352
 "€2,740 per month",110 m²,Flat,2022,4,,Not present,,52.402151877573,4.8907191257833
 "€2,950 per month",107 m²,Flat,,3,Not present,Present,Furnished,52.318011027745,4.9539210457697
 "€2,295 per month",127 m²,Flat,1969,4,Not present,Not present,Upholstered,52.327566302333,4.8859667577437
@@ -513,7 +1041,6 @@ price,living_area,type_of_house,year_of_construction,number_of_rooms,balcony,gar
 "€2,350 per month",52 m²,Flat,1879,3,Not present,,Upholstered,52.36852845331,4.92631863341
 "€2,050 per month",55 m²,Flat,1985,3,Not present,Present,Furnished,52.361547445692,4.9276579451623
 "€2,750 per month",100 m²,Flat,2005,2,Present,,Furnished,52.362223629179,4.9122506203257
-"€3,000 per month",70 m²,Flat,,2,Not present,Not present,Furnished,52.374080611759,4.9017120730249
 "€5,900 per month",185 m²,Flat,,5,,,,52.357893632861,4.8781523419284
 "€1,250 per month",20 m²,Flat,1904,1,Not present,Present,Furnished,52.351893932894,4.8939848656829
 "€1,950 per month",74 m²,Flat,1983,3,Not present,,Furnished,52.353528234034,4.7973991445759
@@ -1011,5 +1538,4 @@ Price on request,211 m²,House,2004,7,Not present,Present,,52.350347879458,4.778
 "€6,500 per month",224 m²,House,1905,7,Present,"Present (50 m², located on the south)",Upholstered or furnished,52.359183191073,4.8770659090806
 "€3,600 per month",102 m²,Flat,2016,4,Not present,Not present,Furnished,52.360139861923,4.8797609017723
 "€3,800 per month",123 m²,Flat,Before 1906,2,Not present,Not present,Furnished,52.373164709519,4.8868025428083
-"€2,950 per month",134 m²,House,1998,4,Present,,Upholstered,52.329986921412,4.8577430448509
 "€5,500 per month",110 m²,Flat,Before 1906,4,Not present,Not present,Furnished,52.373438043843,4.8834366626495
